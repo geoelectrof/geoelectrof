@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **dimitris.geo@gmail.com**
 
-- 📄 Check my [CV](https://codefarmer.netlify.app/assets/images/CV\ Dimitris\ Georgakopoulos.pdf](https://codefarmer.netlify.app/assets/images/CV%20Dimitris%20Georgakopoulos.pdf))
+- 📄 Check my [CV](https://codefarmer.netlify.app/assets/images/CV%20Dimitris%20Georgakopoulos.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
